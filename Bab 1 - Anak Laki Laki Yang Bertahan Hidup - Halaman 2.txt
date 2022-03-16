@@ -4,5 +4,26 @@ Ihsan
 Yanuar
 Icha
 
+<<<<<<< HEAD
 Selama mengendarai mobilnya ke kota, yang dipikirkannya hanyalah pesanan bor
 dalam jumlah besar yang akan didapatnya hari itu.
+=======
+<<<<<<< HEAD
+Orang-orang yang memakai jubah. Mr Dursley tak tahan melihat orang yang berpakaian
+aneh-aneh—dandanan anakanak muda jaman sekarang! Dia kira jubah bloon ini sedang
+mode. Dia mengetuk-ngetukkan jarinya pada kemudi mobil dan matanya menatap
+serombongan orang aneh yang berdiri cukup dekat. Mereka sedang berbisik- bisik dengan
+tegang. Mr Dursley sebal sekali melihat bahwa dua di antara mereka sama sekali tidak muda
+lagi. Yang pakai jubah hijau zamrud itu bahkan lebih tua dari dia! Kelewatan benar! Tetapi
+kemudian terlintas di benaknya bahwa mereka mungkin sengaja berdandan seperti
+itu—mereka pastilah sedang mengumpulkan dana entah untuk apa—ya, pasti begitu.
+Kendaraan-kendaraan mulai bergerak, dan beberapa menit kemudian Mr Dursley tiba di
+tempat parkir Grunnings, pikirannya kembali dipenuhi bor.
+=======
+kerabat keluarga Dursley. Mr dan Mrs DumJey bergidik memikirkan apa kata tetangga
+mereka jika keluarga Potter muncul di jalan mereka. Keluarga Dursley tahu bahwa keluarga
+Potter juga punya seorang anak laki-laki kecil, tetapi mereka belum pernah melihatnya. Anak
+ini salah satu alasan bagus lain kenapa mereka tak mau dekat-dekat keluarga Potter. Mereka
+tak ingin Dudley bergaul dengan anak seperti itu.
+>>>>>>> 64f1c308b9c8dacf3bb8eff5740411c3b3d1e577
+>>>>>>> f8b86f451307a3d03f902394057ed6b0c432979e
