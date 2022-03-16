@@ -6,8 +6,16 @@ Icha
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tetapi menjelang masuk kota, bor tergusur keluar dari pikirannya oleh sesuatu yang
 lain. Sementara terjebak macet seperti biasanya, dia melihat banyak orang berpakaian aneh.
+=======
+Si kucing balas memandangnya, Saat Mr Dursley berbelok di sudut dan meneruskan
+perjalanan, dia memandang kucing itu lewat kaca spionnya. Kucing itu sekarang sedang
+membaca papan jalan yang bertuliskan Privet Drive—bukan, bukan membaca melainkan
+memandang papan jalan itu, kucing itu tidak bisa membaca peta atau papan jalan. Mr Dursley
+menggelengkan kepalanya dan mencoba melupakan kucing itu.
+>>>>>>> 440a912fed2f09dcb81c0671af063c693aad12a4
 =======
 Selama mengendarai mobilnya ke kota, yang dipikirkannya hanyalah pesanan bor
 dalam jumlah besar yang akan didapatnya hari itu.
@@ -24,6 +32,7 @@ kemudian terlintas di benaknya bahwa mereka mungkin sengaja berdandan seperti
 itu—mereka pastilah sedang mengumpulkan dana entah untuk apa—ya, pasti begitu.
 Kendaraan-kendaraan mulai bergerak, dan beberapa menit kemudian Mr Dursley tiba di
 tempat parkir Grunnings, pikirannya kembali dipenuhi bor.
+>>>>>>> 6411fc7a219ea7e044c07b90bcbf6b5578fc4bcd
 =======
 kerabat keluarga Dursley. Mr dan Mrs DumJey bergidik memikirkan apa kata tetangga
 mereka jika keluarga Potter muncul di jalan mereka. Keluarga Dursley tahu bahwa keluarga
@@ -31,4 +40,7 @@ Potter juga punya seorang anak laki-laki kecil, tetapi mereka belum pernah melih
 ini salah satu alasan bagus lain kenapa mereka tak mau dekat-dekat keluarga Potter. Mereka
 tak ingin Dudley bergaul dengan anak seperti itu.
 >>>>>>> 64f1c308b9c8dacf3bb8eff5740411c3b3d1e577
+<<<<<<< HEAD
+=======
 >>>>>>> f8b86f451307a3d03f902394057ed6b0c432979e
+>>>>>>> 6411fc7a219ea7e044c07b90bcbf6b5578fc4bcd
