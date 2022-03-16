@@ -5,8 +5,13 @@ Yanuar
 Icha
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Tetapi menjelang masuk kota, bor tergusur keluar dari pikirannya oleh sesuatu yang
 lain. Sementara terjebak macet seperti biasanya, dia melihat banyak orang berpakaian aneh.
+=======
+Selama mengendarai mobilnya ke kota, yang dipikirkannya hanyalah pesanan bor
+dalam jumlah besar yang akan didapatnya hari itu.
+>>>>>>> 6411fc7a219ea7e044c07b90bcbf6b5578fc4bcd
 =======
 <<<<<<< HEAD
 Orang-orang yang memakai jubah. Mr Dursley tak tahan melihat orang yang berpakaian
