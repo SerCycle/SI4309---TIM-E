@@ -4,8 +4,16 @@ Ihsan
 Yanuar
 Icha
 
+<<<<<<< HEAD
 Si kucing balas memandangnya, Saat Mr Dursley berbelok di sudut dan meneruskan
 perjalanan, dia memandang kucing itu lewat kaca spionnya. Kucing itu sekarang sedang
 membaca papan jalan yang bertuliskan Privet Drive—bukan, bukan membaca melainkan
 memandang papan jalan itu, kucing itu tidak bisa membaca peta atau papan jalan. Mr Dursley
 menggelengkan kepalanya dan mencoba melupakan kucing itu.
+=======
+kerabat keluarga Dursley. Mr dan Mrs DumJey bergidik memikirkan apa kata tetangga
+mereka jika keluarga Potter muncul di jalan mereka. Keluarga Dursley tahu bahwa keluarga
+Potter juga punya seorang anak laki-laki kecil, tetapi mereka belum pernah melihatnya. Anak
+ini salah satu alasan bagus lain kenapa mereka tak mau dekat-dekat keluarga Potter. Mereka
+tak ingin Dudley bergaul dengan anak seperti itu.
+>>>>>>> 64f1c308b9c8dacf3bb8eff5740411c3b3d1e577
