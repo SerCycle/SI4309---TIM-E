@@ -1,3 +1,5 @@
 print("masukkan username")
 
 tambahin fitur dashboard
+
+add Register [nama, email, nohp]
