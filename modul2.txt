@@ -5,3 +5,5 @@ tambahin fitur dashboard
 add Register [nama, email, nohp]
 
 add profile 
+
+add landing page
